@@ -51,7 +51,7 @@
 &nbsp;&nbsp;&nbsp; 학생들의 학술 연구 및 활동을 장려하기 위해, <br>
 &nbsp;&nbsp;&nbsp; 학회 참가비를 지원하는 프로그램을 운영하겠습니다. 
 
-#### &nbsp;&nbsp; 〈운영 계획〉
+#### &nbsp;&nbsp; **〈운영 계획〉**
 &nbsp;&nbsp;&nbsp; 학술대회 참여 희망자 추첨 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; → 학회 참가비 지원 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → 학회 참여 후 배움의 내용 공유 
