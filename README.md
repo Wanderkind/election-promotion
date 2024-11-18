@@ -51,10 +51,10 @@
 &nbsp;&nbsp;&nbsp; 학생들의 학술 연구 및 활동을 장려하기 위해, <br>
 &nbsp;&nbsp;&nbsp; 학회 참가비를 지원하는 프로그램을 운영하겠습니다. 
 
-#### &nbsp;&nbsp;&nbsp; 〈운영 계획〉
+#### &nbsp;&nbsp; 〈운영 계획〉
 &nbsp;&nbsp;&nbsp; 학술대회 참여 희망자 추첨 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; → 학회 참가비 지원 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 학회 참여 후 배움의 내용 공유 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → 학회 참여 후 배움의 내용 공유 
 
 ### **▷ 졸업생 멘토 연결 프로그램**
 &nbsp;&nbsp;&nbsp; 예과 때 맺어지는 짝선짝후가 <br>
@@ -73,13 +73,13 @@
 ## **4. 발전하는 학교, 소통하는 학생회** 
 
 ### **▷ 세명한의 기념품 제작**
-&nbsp;&nbsp;&nbsp; 학교의 정체성을 담은 기념품 <br>
-&nbsp;&nbsp;&nbsp; (미니 인형, 키링, 뱃지 등)을 제작하여, <br>
+&nbsp;&nbsp;&nbsp; 학교의 정체성을 담은 기념품, <br>
+&nbsp;&nbsp;&nbsp; 미니 인형, 키링, 뱃지 등을 제작하여, <br>
 &nbsp;&nbsp;&nbsp; 학교의 자긍심을 높이겠습니다. 
 
 ### **▷ 직접 참여 가능한 전체 회의**
 &nbsp;&nbsp;&nbsp; 학기별로 열리는 전체 회의 ! <br>
-&nbsp;&nbsp;&nbsp; 편하게 오셔서 여러분의 다양한 의견을 들려주세요 <br>
+&nbsp;&nbsp;&nbsp; 편하게 오셔서 여러분의 다양한 의견을 들려주세요. <br>
 &nbsp;&nbsp;&nbsp; 모든 학우들이 의견을 나누고 <br>
 &nbsp;&nbsp;&nbsp; 참여할 수 있는 열린 회의를 개최하여, <br>
 &nbsp;&nbsp;&nbsp; 민주적이고 소통하는 학생회를 만들겠습니다. 
